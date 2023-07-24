@@ -27,3 +27,12 @@ Modules responsible for managing the trade done by each trader -
 - Sell stock
 - Display balance
 - Display portfolio
+
+## Stock Exchange
+The class which maintains the actual trading done (which stock is sold/bought) -
+- Add/Get Share
+- Bid - to accept bid
+- Ask - to accept ask
+- Last Traded Price
+- Get Best Bid/Ask
+- Get 5 Best Bids/Asks
