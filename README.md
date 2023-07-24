@@ -36,3 +36,9 @@ The class which maintains the actual trading done (which stock is sold/bought) -
 - Last Traded Price
 - Get Best Bid/Ask
 - Get 5 Best Bids/Asks
+
+## Order Matching Engine
+Within Stock Exchange to simulate the trade by matching bids and asks -
+- Check Bid/Ask Position - since trade is done within only top 5
+- Accepted Bid
+- Accepted Ask
